@@ -48,10 +48,10 @@
 
       <div class="flex justify-between items-center py-8">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
-          <g-image src="../../static/laravel.svg" alt="browser" />
+          <g-image src="../../static/laravel.png" alt="browser" />
         </div>
         <div class="w-1/2 px-8 hidden sm:flex justify-end">
-          <g-image src="../../static/product_teardown.svg" alt="mobile" />
+          <g-image src="../../static/product_teardown.png" alt="mobile" />
         </div>
       </div>
     </div>
