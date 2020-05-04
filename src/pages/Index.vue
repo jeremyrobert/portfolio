@@ -95,6 +95,13 @@
               >Netlify</a>
               pour l'hébergement.
             </div>
+            <div>
+              <g-image
+                src="../../static/lighthouse-score.png"
+                alt="Lighthouse scores"
+                class="mt-4 mx-auto w-2/3 shadow-lg"
+              />
+            </div>
           </li>
           <li class="checkmark">
             <div>Moviesdb - Projet personnel</div>
