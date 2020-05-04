@@ -21,17 +21,20 @@
         nouvelles connaissances, je me spécialise dans le framework PHP
         <a
           target="_blank"
+          rel="noopener"
           href="https://laravel.com/"
         >Laravel</a> côté backend,
         couplé à un framework JavaScript comme
         <a
           target="_blank"
+          rel="noopener"
           href="https://vuejs.org/"
         >Vue</a> ou
-        <a target="_blank" href="https://fr.reactjs.org/">React</a> pour le
+        <a target="_blank" rel="noopener" href="https://fr.reactjs.org/">React</a> pour le
         frontend. J'ai également des compétences avec le CMS
         <a
           target="_blank"
+          rel="noopener"
           href="https://fr.wordpress.com/"
         >WordPress</a>.
         <br />
@@ -39,10 +42,11 @@
         libre afin de perfectionner mes compétences sur des plateformes comme
         <a
           target="_blank"
+          rel="noopener"
           href="https://www.udemy.com/"
         >Udemy</a>,
-        <a target="_blank" href="https://laracasts.com/">Laracasts</a> ou
-        <a target="_blank" href="https://openclassrooms.com/fr/">OpenClassrooms</a>. Compétences qui me servent ensuite à répondre au mieux aux besoins de
+        <a target="_blank" rel="noopener" href="https://laracasts.com/">Laracasts</a> ou
+        <a target="_blank" rel="noopener" href="https://openclassrooms.com/fr/">OpenClassrooms</a>. Compétences qui me servent ensuite à répondre au mieux aux besoins de
         mes clients.
       </p>
 
@@ -78,13 +82,15 @@
               Le code de ce site est accessible sur mon
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://github.com/jeremyrobert/portfolio"
               >dépôt public</a>, j'utilise
-              <a target="_blank" href="https://gridsome.org/">Gridsome</a>,
-              <a target="_blank" href="https://tailwindcss.com/">Tailwind CSS</a>
+              <a target="_blank" rel="noopener" href="https://gridsome.org/">Gridsome</a>,
+              <a target="_blank" rel="noopener" href="https://tailwindcss.com/">Tailwind CSS</a>
               pour le style et
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://www.netlify.com/"
               >Netlify</a>
               pour l'hébergement.
@@ -96,19 +102,30 @@
               Au cours du mois de Mars 2020 durant la période de confinement, j'ai voulu mettre en pratique mes compétences sur
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://laravel.com/"
               >Laravel</a> et tester l'API du site
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://www.themoviedb.org/"
               >themoviedb.org</a>. J'ai donc développé un site qui récupère des informations sur des films et séries avec la possibilité de créer un compte pour laisser un avis. Les technologies utilisées sont
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://laravel.com/"
               >Laravel</a>,
-              <a target="_blank" href="https://laravel-livewire.com/">Livewire</a> et
-              <a target="_blank" href="https://github.com/alpinejs/alpine">AlpineJS</a>. Lien du site :
-              <a target="_blank" href="https://moviesdb.jeremyrobert.fr/">Moviesdb</a>
+              <a target="_blank" rel="noopener" href="https://laravel-livewire.com/">Livewire</a> et
+              <a
+                target="_blank"
+                rel="noopener"
+                href="https://github.com/alpinejs/alpine"
+              >AlpineJS</a>. Lien du site :
+              <a
+                target="_blank"
+                rel="noopener"
+                href="https://moviesdb.jeremyrobert.fr/"
+              >Moviesdb</a>
             </div>
           </li>
           <li class="checkmark mb-6">
@@ -128,9 +145,10 @@
               technologies utilisées sont
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://fr.reactjs.org/"
               >React</a> et
-              <a target="_blank" href="https://firebase.google.com/">Firebase</a>.
+              <a target="_blank" rel="noopener" href="https://firebase.google.com/">Firebase</a>.
             </div>
           </li>
           <li class="checkmark mb-6">
@@ -139,11 +157,13 @@
               Pour un grand groupe, j'ai développé sous
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://www.google.fr/intl/fr/sheets/about/"
               >Google Sheet</a>
               avec
               <a
                 target="_blank"
+                rel="noopener"
                 href="https://developers.google.com/apps-script"
               >Google Apps Script</a>
               un outil qui permet au service recouvrement la gestion des
