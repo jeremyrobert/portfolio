@@ -93,7 +93,7 @@
           <li class="checkmark">
             <div>Moviesdb - Projet personnel</div>
             <div class="text-lg text-gray-600">
-              Au cours du mois de Mars 2020 en plaine période de confinement, j'ai voulu mettre en pratique mes compétences sur
+              Au cours du mois de Mars 2020 durant la période de confinement, j'ai voulu mettre en pratique mes compétences sur
               <a
                 target="_blank"
                 href="https://laravel.com/"
