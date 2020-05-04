@@ -23,6 +23,7 @@
           <button
             @click="toggle"
             class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600"
+            aria-label="Open Menu"
           >
             <svg
               class="current-color h-3 w-3"
@@ -85,7 +86,11 @@
         </div>
         <ul class="flex items-center space-x-8">
           <li>
-            <a href="mailto:contact@jeremyrobert.fr" class="text-white hover:text-gray-400">
+            <a
+              href="mailto:contact@jeremyrobert.fr"
+              class="text-white hover:text-gray-400"
+              aria-label="Mail"
+            >
               <svg width="25" height="20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path
                   d="M2.5 0h20A2.5 2.5 0 0 1 25 2.5v15a2.5 2.5 0 0 1-2.5 2.5h-20A2.5 2.5 0 0 1 0 17.5v-15C0 1.125 1.125 0 2.5 0zm20 4.225V2.5h-20v1.725l10 5 10-5zm0 2.8l-9.438 4.713a1.25 1.25 0 0 1-1.124 0L2.5 7.025V17.5h20V7.025z"
@@ -101,6 +106,7 @@
               target="_blank"
               rel="noopener"
               class="text-white hover:text-gray-400"
+              aria-label="Linkedin"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -123,6 +129,7 @@
               target="_blank"
               rel="noopener"
               class="text-white hover:text-gray-400"
+              aria-label="Github"
             >
               <svg width="20" height="19" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path
@@ -139,6 +146,7 @@
               target="_blank"
               rel="noopener"
               class="text-white hover:text-gray-400"
+              aria-label="Malt"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
