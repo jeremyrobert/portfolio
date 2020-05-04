@@ -4,6 +4,7 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
+import 'typeface-nunito-sans';
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -29,10 +30,5 @@ export default function (Vue, { router, head, isClient }) {
   head.meta.push({
     name: 'author',
     content: 'Jeremy ROBERT'
-  })
-
-  head.link.push({
-    rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
   })
 }
