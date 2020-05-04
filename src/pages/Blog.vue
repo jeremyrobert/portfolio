@@ -2,7 +2,7 @@
   <Layout>
     <div class="container-inner mx-auto py-16">
       <h2 class="text-4xl font-bold mb-16">En construction</h2>
-      <g-image src="../../static/work_in_progress.svg" alt="En construction" />
+      <img src="../../static/work_in_progress.svg" alt="En construction" />
       <!-- <div v-for="post in $page.posts.edges" :key="post.id" class="post border-gray-400 border-b mb-12">
         <h2 class="text-3xl font-bold"><g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
         <div class="text-copy-secondary mb-4">
