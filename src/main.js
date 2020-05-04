@@ -31,4 +31,6 @@ export default function (Vue, { router, head, isClient }) {
     name: 'author',
     content: 'Jeremy ROBERT'
   })
+
+  head.htmlAttrs = { lang: 'fr' }
 }
