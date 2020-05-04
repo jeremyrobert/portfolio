@@ -99,6 +99,7 @@
             <a
               href="https://www.linkedin.com/in/jeremy-robert/"
               target="_blank"
+              rel="noopener"
               class="text-white hover:text-gray-400"
             >
               <svg
@@ -120,6 +121,7 @@
             <a
               href="https://github.com/jeremyrobert/"
               target="_blank"
+              rel="noopener"
               class="text-white hover:text-gray-400"
             >
               <svg width="20" height="19" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -135,6 +137,7 @@
             <a
               href="https://www.malt.fr/profile/jeremy/"
               target="_blank"
+              rel="noopener"
               class="text-white hover:text-gray-400"
             >
               <svg
